@@ -1,0 +1,42 @@
+img{
+    border-radius: 100%;
+    display: block;
+    margin: 0 auto;
+
+}
+h1{
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+h2{
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+h3{
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+h4{
+  color: red;
+    display: flex;
+    justify-content: center;
+}
+h5{
+    color: red;
+      display: flex;
+      justify-content: center;
+  }
+h6{
+    color: red;
+    display: flex;
+    justify-content: center;
+  }
+a{
+    color: blue;
+    display: flex;
+    justify-content: center;
+
+}
